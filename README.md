@@ -9,3 +9,5 @@
 - ``min()``,  ``max()``, ``extent()``, ``set()``: Video 06
 - ``select()``,  ``selectAll()``: Video 07
 - ``attr()``,  ``style()``, ``classed()``, ``text()``, ``html()``: Video 08
+- ``append()``,  ``insert()``,  ``remove()``: Video 09
+- ``data()``,  ``enter()``,  ``exit()``,  ``merge()``: Video 10
